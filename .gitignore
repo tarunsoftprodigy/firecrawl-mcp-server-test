@@ -1,29 +1,60 @@
 # Dependencies
+
 node_modules/
 
+
+
 # Build
+
 dist/
 
+
+
 # Logs
+
 logs
+
 *.log
+
 npm-debug.log*
 
+
+
 # Environment
-.env
-.env.local
+
 .env.*.local
+
 claude_desktop_config.json
 
+
+
 # IDE
+
 .idea/
-.vscode/
+
+
 *.swp
+
 *.swo
+
 .cursorrules.md
+
 IMPLEMENTATION.md
+
 v1.2.md
 
+
+
 # OS
+
 .DS_Store
+
 Thumbs.db 
+
+config.bat
+
+branch_structure.json
+
+temp_auto_push.bat
+
+temp_interactive_push.bat
